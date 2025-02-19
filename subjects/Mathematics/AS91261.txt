@@ -1,0 +1,44 @@
+
+Level 2 Mathematics and Statistics: Algebraic Methods (AS91261)
+
+Simplifying Expressions
+- Simplify (2x³y²)/(4xy⁴) using the laws of indices
+- Simplify (3a²b⁴)/(6ab²) × (2ab³) using index laws
+- Express (x + 2)² - 4 in expanded form
+- Simplify (x² + 3x)/(x + 3) by factoring where possible
+- Write 8^(1/3) × 27^(1/3) in simplified form
+
+Finding Unknown Values
+- Solve for x in the equation log₂(x + 3) = 4
+- Find the value of m where log₃(m + 1) = 2
+- Determine x when 2ˣ = 16
+- Solve the equation 3x² + 5x - 2 = 0
+- Find p when 2p² - 7p + 3 = 0
+
+Variable Relationships
+- Express h in terms of r and V in the formula V = πr²h
+- Make y the subject in the equation x = 2y² + 5y
+- Express x in terms of a and b in the equation ax + b = x² + 1
+- Rearrange the formula A = P(1 + r)ⁿ to make r the subject
+- Express the radius r in terms of h if the surface area of a cylinder equals that of a cube with side length h
+
+Real-World Applications
+- A rectangle has length (x + 2) and width (x - 1). Express its area in simplified form
+- The height of a ball after t seconds is given by h = -4.9t² + vt + 1.5. Find v if the ball reaches 2m at t = 0.5
+- A box with square base has surface area 600cm². If the height is h cm, express the side length of the base in terms of h
+- The cost C dollars of producing x items is C = 2x² + 50x + 1000. Find the cost of producing 10 items
+- The profit P dollars from selling x items is P = 200x - (2x² + 50x + 1000). Find the number of items that gives maximum profit
+
+Advanced Problems
+- Find the value of k where y = 2x + k is tangent to y = x² - 4
+- Determine the range of values for m where 2x² + mx + 3 ≥ 0 for all x
+- Find the values of k where the line y = kx intersects the curve y = x² - 1 at exactly one point
+- For what values of p will the equation x² + px + 4 = 0 have real solutions?
+- Find the values of k where x² + kx + k = 0 has equal roots
+
+Working Requirements
+- All algebraic working must be shown clearly and logically
+- Final answers must be given in their simplest form
+- Solutions should demonstrate understanding of algebraic methods
+- Real-world problems require clear interpretation and modeling
+- Graphs should be clearly labeled with all important features shown

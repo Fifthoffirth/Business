@@ -1,0 +1,6 @@
+
+Algebra Fundamentals
+- Quadratic equations are equations of the form ax² + bx + c = 0
+- The quadratic formula is x = (-b ± √(b² - 4ac)) / 2a
+- Linear equations always form a straight line when graphed
+- The slope of a line represents its steepness and direction

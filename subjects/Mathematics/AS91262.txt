@@ -1,0 +1,37 @@
+
+Level 2 Mathematics and Statistics: Calculus Methods (AS91262)
+
+Gradient and Derivatives
+- Find the gradient of the curve y = ax³ + bx² + cx + d at point (p,q)
+- Find another point on the curve y = 2x³ - 9x² + 12x + 3 with the same gradient as at (1,8)
+- Find the points where the gradient of f(x) = 3x² - 6x + 2 equals 5
+- Show that the line y = mx + c is a tangent to the curve f(x) = ax³ + bx² + cx + d
+- Find the gradient function f'(x) for f(x) = x⁴/4 - 2x³/3 - 12x² + 10
+
+Integration and Area
+- Find the function whose gradient function is f'(x) = 4x³ - 6x² - 4x passing through (2,-5)
+- Find the area between the curve y = x² and the line y = 2x + 1 from x = 0 to x = 3
+- Calculate the definite integral of f(x) = 2x³ - 4x² + 5x from x = 1 to x = 4
+- Find the area enclosed by two curves f(x) = x² and g(x) = 2x - x²
+- Determine the volume of revolution when y = √x is rotated about the x-axis from x = 0 to x = 4
+
+Optimization Problems
+- Find the dimensions of a rectangle with perimeter 400m that maximizes its area
+- Determine the dimensions of a cylindrical can that minimizes surface area for a volume of 500cm³
+- Find the point on the curve y = x² closest to the point (2,0)
+- Maximize the profit P = 200x - (2x² + 50x + 1000) where x is the number of items
+- Find the dimensions of a box with square base that maximizes volume given surface area 600cm²
+
+Applications and Modeling
+- A car decelerates at rate v = -2t m/s. Find the stopping time and distance
+- The number of followers N after t days is given by N = 100t/(1+0.1t). Find the maximum followers
+- The height of a ball is given by h = -4.9t² + vt + 1.5. Find v if h = 2 when t = 0.5
+- The cost of producing x items is C = 2x² + 50x + 1000. Find the minimum cost
+- The population growth rate is dP/dt = 0.1P(1-P/1000). Find when growth rate is maximum
+
+Working Requirements
+- Show all calculus working clearly and logically
+- Include relevant diagrams where helpful
+- State any assumptions made in modeling problems
+- Verify maxima/minima using derivative tests
+- Include units in contextual problems

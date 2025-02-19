@@ -1,0 +1,102 @@
+Level 3 Physics: Wave Systems and Applications (91523)
+
+1. Standing Waves and Musical Instruments
+   A. Pan Flute Analysis
+      - Standing wave formation in pipes
+      - Third harmonic patterns and node positions
+      - Frequency calculations with pipe length
+      - Beat frequency and tuning methods
+      
+   Example Questions:
+   1. Draw and label a diagram showing:
+      - Third harmonic in a pan flute pipe
+      - Node (N) and antinode (A) positions
+      - Wavelength relationships
+      
+   2. Calculate frequencies using:
+      - Pipe length: 8.50 cm
+      - Speed of sound: 343 m/s
+      - Harmonic number: n = 3
+      
+   3. Explain:
+      - Standing wave formation in pipes
+      - Open vs closed end effects
+      - Allowed harmonics
+      - Tuning using beat frequency
+
+2. Wave Interference and Diffraction
+   A. Diffraction Grating Analysis
+      - Order number (n) and wavelength (λ) relationships
+      - Pattern formation and spacing
+      - Spectral effects with white light
+      
+   Example Questions:
+   1. Explain diffraction concepts:
+      - Meaning of nλ
+      - Pattern formation
+      - Order number significance
+      
+   2. Calculate using:
+      - Grating spacing: 200 lines/mm
+      - Wavelength: 638 nm (red laser)
+      - Screen pattern analysis
+      
+   3. Compare and analyze:
+      - Diffraction vs double slit patterns
+      - White light spectral formation
+      - Pattern intensity distribution
+
+3. Doppler Effect
+   A. Moving Source Analysis
+      - Frequency changes with motion
+      - Observer vs source perspective
+      - Graphical interpretation
+      
+   Example Questions:
+   1. Describe and explain:
+      - Frequency changes for moving sources
+      - Observer position effects
+      - Compression and rarefaction
+      
+   2. Calculate source speed using:
+      - Approaching frequency: 1270 Hz
+      - Receding frequency: 1190 Hz
+      - Sound speed: 343 m/s
+      
+   3. Analyze graphs showing:
+      - Frequency vs position relationships
+      - Approaching source effects (Section A)
+      - Passing point analysis (Point B)
+      - Receding source effects (Section C)
+
+Working Requirements:
+1. Diagrams must include:
+   - Clear wave representations
+   - Accurate node/antinode positions
+   - Proper wavelength markings
+   - Labeled key points
+
+2. Calculations require:
+   - Clear equation selection
+   - Step-by-step working
+   - Units throughout
+   - Final answer verification
+
+3. Explanations need:
+   - Physical principles
+   - Clear reasoning
+   - Specific examples
+   - Proper terminology
+
+4. Graph analysis should show:
+   - Understanding of trends
+   - Physical interpretation
+   - Key point identification
+   - Clear explanations
+
+Assessment Notes:
+- Show all working clearly
+- Include relevant diagrams
+- Use correct physics terminology
+- State any assumptions
+- Verify calculations where possible

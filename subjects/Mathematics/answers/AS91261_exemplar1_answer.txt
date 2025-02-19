@@ -1,0 +1,11 @@
+
+Solution:
+(2x³y²)/(4xy⁴)
+= (2/4)(x³/x)(y²/y⁴)
+= (1/2)(x²)(y⁻²)
+= x²/(2y²)
+
+Key points:
+- Coefficient simplification: 2/4 = 1/2
+- Index law for division: x³/x = x² (subtract indices)
+- Index law for division: y²/y⁴ = y⁻² (subtract indices)

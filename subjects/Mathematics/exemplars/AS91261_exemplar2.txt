@@ -1,0 +1,6 @@
+
+Solve the equation: 2x² - 7x + 3 = 0
+Working:
+1. Identify as quadratic equation
+2. Use quadratic formula or factoring
+3. Show all steps

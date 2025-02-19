@@ -1,0 +1,86 @@
+Level 3 Chemistry: Structure, Bonding and Energy (91391)
+
+1. Molecular Structure and Bonding
+   A. Lewis Structures and Molecular Geometry
+      - Drawing Lewis structures (e.g., PF₅, SeCl₄²⁻)
+      - VSEPR theory and molecular shapes
+      - Bond angles and electron domains
+      - Molecular polarity (e.g., BrCl₃)
+
+   Example Questions:
+   1. Draw and analyze:
+      - Complete Lewis structure for PF₅
+      - Show shape and electron arrangement for SeCl₄²⁻
+      - Compare T-shaped vs trigonal planar BrCl₃
+      - Analyze molecular polarity using bond dipoles
+
+2. Electronic Structure and Periodic Trends
+   A. Electron Configuration Analysis
+      - Electron configuration notation (e.g., 3p⁶)
+      - Orbital energy levels
+      - Periodic trends in ionization energy
+      - Element comparisons (e.g., Ar, Ne, P)
+
+   Example Questions:
+   1. Analyze configurations:
+      - Explain notation in 3p⁶ for argon
+      - Compare first ionization energies
+      - Apply periodic trends
+      - Justify electron arrangements
+
+3. Thermochemistry and Molecular Interactions
+   A. Energy Changes and Intermolecular Forces
+      - Enthalpy calculations (ΔrH°)
+      - Entropy and spontaneity
+      - Intermolecular forces
+      - Boiling point relationships
+
+   Example Questions:
+   1. Calculate and analyze:
+      - Determine ΔrH° for reactions like:
+        4ClF₃(g) + 3N₂H₄(l) → 12HF(g) + 3N₂(g) + 2Cl₂(g)
+      - Explain reaction spontaneity
+      - Compare forces in NH₃, SO₂, C₅H₁₂
+      - Analyze boiling point trends
+
+   2. Practical measurements:
+      - Calorimetry calculations
+      - Error analysis in enthalpy values
+      - Temperature change effects
+      - Mass measurements
+
+Working Requirements:
+1. Molecular Structure Questions:
+   - Clear Lewis dot structures
+   - Proper electron domain geometry
+   - Correct formal charges
+   - Bond angle justification
+   - Polarity analysis
+
+2. Electronic Structure Questions:
+   - Correct orbital notation
+   - Clear trend explanations
+   - Proper comparison justification
+   - Energy level understanding
+
+3. Thermochemistry Questions:
+   - Balanced equations
+   - Proper enthalpy calculations
+   - Clear entropy explanations
+   - Detailed force analysis
+   - Error consideration
+
+4. Calculations must include:
+   - All working steps shown
+   - Correct units used
+   - Balanced equations
+   - Error analysis where relevant
+
+Assessment Notes:
+- Show all working clearly
+- Include molecular diagrams where needed
+- Use correct chemical notation
+- Justify trend predictions
+- Consider all relevant forces
+- Explain error sources
+- Verify calculations 

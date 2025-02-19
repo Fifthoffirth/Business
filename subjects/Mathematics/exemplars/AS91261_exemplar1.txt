@@ -1,0 +1,6 @@
+
+Simplify (2x³y²)/(4xy⁴)
+Working:
+1. Group like terms
+2. Apply index laws for division
+3. Simplify coefficients

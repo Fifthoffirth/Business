@@ -1,0 +1,61 @@
+
+Level 3 Mathematics and Statistics: Calculus Methods (AS91578)
+
+Differentiation and Applications
+1. Basic Differentiation
+   - Differentiate f(x) = 4 - 9x⁴
+   - Find dy/dx for y = x·sec(6x)
+   - Differentiate y = (x² + 3x + 2)sin(x)
+
+2. Parametric Differentiation
+   - Given x = 3t² + 1 and y = cos(t), find dy/dx
+   - Find velocity when displacement s(t) = ln(3t² + 5t + 2)
+   - Solve parametric equations involving trigonometric functions
+
+3. Second Derivatives and Inflection Points
+   - Verify solutions to second-order differential equations
+   - Find points of inflection for f(x) = ln(x)/x
+   - Determine nature of stationary points
+   - Analyze curves with multiple derivatives
+
+4. Applications of Derivatives
+   - Find ranges where functions are increasing/decreasing
+   - Determine stationary points and their nature
+   - Find equations of tangent lines
+   - Solve optimization problems
+   - Analyze rates of change in real-world contexts
+
+5. Complex Functions
+   - Functions with natural logarithms and exponentials
+   - Combinations of trigonometric functions
+   - Rational functions with quadratic terms
+   - Implicit differentiation
+   - Chain rule applications
+
+6. Limits and Continuity
+   - Evaluate limits as x approaches specific values
+   - Identify points where functions are continuous but not differentiable
+   - Analyze function behavior near critical points
+   - Determine existence of limits
+
+7. Real-World Applications
+   - Rate problems (e.g., volume changes in geometric shapes)
+   - Optimization of areas and volumes
+   - Motion problems (velocity and acceleration)
+   - Related rates
+   - Maximum/minimum problems
+
+Working Requirements:
+- Clear and logical presentation of calculus working
+- Proper use of differentiation rules
+- Verification of solutions where required
+- Appropriate use of mathematical notation
+- Complete justification of answers
+- Clear identification of key steps in solutions
+
+Note: This assessment requires:
+- Understanding of differentiation techniques
+- Application of chain rule, product rule, and quotient rule
+- Analysis of function behavior
+- Problem-solving in practical contexts
+- Clear mathematical communication
